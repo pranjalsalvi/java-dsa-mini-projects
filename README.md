@@ -32,10 +32,9 @@ javac FileName.java
 java FileName
 ```
 
-## 📂 Output
+## Output
 
 Outputs are included in `output.txt`
+ 
 
----
-
-⭐ This project is part of my learning and practice for Java and Data Structures.
+### This project is part of my learning and practice for Java and Data Structures.
