@@ -1,0 +1,6 @@
+Nodes at distance 2: 4 5
+
+Bitcoin Price in INR: 6916574
+In Words: Sixty Nine Lakh Sixteen Thousand Five Hundred Seventy Four
+
+Orchard sizes: 5 3
